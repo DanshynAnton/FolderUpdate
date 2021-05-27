@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\FileOperatingLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\FileOperatingLibrary.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\TimeStruct.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\TimeStruct.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Debug\FileOperatingLibrary.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Debug\FileOperatingLibrary.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Debug\FileOperatingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Debug\FileOperatingLibrary.csproj.CopyComplete
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Debug\FileOperatingLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Debug\FileOperatingLibrary.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\LocaleLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Debug\LocaleLibrary.pdb

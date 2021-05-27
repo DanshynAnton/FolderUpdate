@@ -1,0 +1,9 @@
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\bin\Debug\TimeUpdateLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\bin\Debug\TimeUpdateLibrary.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\bin\Debug\TimeStruct.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\bin\Debug\TimeStruct.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\obj\Debug\TimeUpdateLibrary.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\obj\Debug\TimeUpdateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\obj\Debug\TimeUpdateLibrary.csproj.CopyComplete
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\obj\Debug\TimeUpdateLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\TimeUpdateLibrary\obj\Debug\TimeUpdateLibrary.pdb

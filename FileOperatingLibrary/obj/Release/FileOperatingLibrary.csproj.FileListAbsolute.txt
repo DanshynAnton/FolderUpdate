@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\FileOperatingLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\FileOperatingLibrary.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\LocaleLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\TimeStruct.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\LocaleLibrary.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\TimeStruct.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Release\FileOperatingLibrary.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Release\FileOperatingLibrary.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Release\FileOperatingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Release\FileOperatingLibrary.csproj.CopyComplete
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Release\FileOperatingLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\FileOperatingLibrary\obj\Release\FileOperatingLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\LocaleLibrary\bin\Debug\LocaleLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\LocaleLibrary\bin\Debug\LocaleLibrary.pdb
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\LocaleLibrary\obj\Debug\LocaleLibrary.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\LocaleLibrary\obj\Debug\LocaleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\LocaleLibrary\obj\Debug\LocaleLibrary.dll
+C:\Users\MSI\Desktop\Anton\Курсовой 2021\FolderUpdate\LocaleLibrary\obj\Debug\LocaleLibrary.pdb
